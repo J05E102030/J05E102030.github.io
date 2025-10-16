@@ -553,7 +553,7 @@
             EJS_player = "#sonic-game";
             EJS_core = "segaMD";
             EJS_pathtodata = "https://cdn.emulatorjs.org/stable/data/";
-            EJS_gameUrl = "https://dfr.wowroms.com/d/roms/g/kign2K6wkEPsAycZ66OO/k1/d3cd27101ccde21/k2/968806918e2c1a5";
+            EJS_gameUrl = "/sonic2.md";
             var script = document.createElement('script');
             script.src = "https://cdn.emulatorjs.org/stable/data/loader.js";
             document.head.appendChild(script);
@@ -563,7 +563,7 @@
                 EJS_player = "#metroid-game";
                 EJS_core = "snes";
                 EJS_pathtodata = "https://cdn.emulatorjs.org/stable/data/";
-                EJS_gameUrl = "/refs/heads/main/supermetroid.sfc";
+                EJS_gameUrl = "/supermetroid.sfc";
                 var script2 = document.createElement('script');
                 script2.src = "https://cdn.emulatorjs.org/stable/data/loader.js";
                 document.head.appendChild(script2);
