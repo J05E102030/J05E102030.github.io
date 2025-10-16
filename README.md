@@ -554,8 +554,7 @@
             EJS_player = "#sonic-game";
             EJS_core = "segaMD";
             EJS_pathtodata = "https://cdn.emulatorjs.org/stable/data/";
-            // Ruta final corregida para GitHub Pages con usuario J05E102030 y repositorio Mi-blog-personal
-            EJS_gameUrl = "/Mi-blog-personal/sonic2.md";
+            EJS_gameUrl = "https://j05e102030.github.io//blob/main/sonic2.md";
             var script = document.createElement('script');
             script.src = "https://cdn.emulatorjs.org/stable/data/loader.js";
             document.head.appendChild(script);
@@ -566,7 +565,7 @@
                 EJS_core = "snes";
                 EJS_pathtodata = "https://cdn.emulatorjs.org/stable/data/";
                 // Ruta final corregida para GitHub Pages con usuario J05E102030 y repositorio Mi-blog-personal
-                EJS_gameUrl = "/Mi-blog-personal/supermetroid.sfc";
+                EJS_gameUrl = "https://j05e102030.github.io//blob/main/supermetroid.sfc";
                 var script2 = document.createElement('script');
                 script2.src = "https://cdn.emulatorjs.org/stable/data/loader.js";
                 document.head.appendChild(script2);
