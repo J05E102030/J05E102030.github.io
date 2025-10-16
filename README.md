@@ -564,7 +564,7 @@
                 EJS_player = "#metroid-game";
                 EJS_core = "snes";
                 EJS_pathtodata = "https://cdn.emulatorjs.org/stable/data/";
-                EJS_gameUrl = "https://raw.githubusercontent.com/J05E102030/J05E102030.github.io/refs/heads/main/supermetroid.sfc";
+                EJS_gameUrl = "/refs/heads/main/supermetroid.sfc";
                 var script2 = document.createElement('script');
                 script2.src = "https://cdn.emulatorjs.org/stable/data/loader.js";
                 document.head.appendChild(script2);
